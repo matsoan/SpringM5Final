@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 13
+Implementation-Title: SpringM5Final
+Implementation-Version: 1.0.0-BUILD-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
